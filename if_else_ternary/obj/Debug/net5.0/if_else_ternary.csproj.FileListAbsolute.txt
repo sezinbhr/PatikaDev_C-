@@ -1,0 +1,16 @@
+C:\Users\bahar\Desktop\patika_C#\if_else_ternary\bin\Debug\net5.0\if_else_ternary.exe
+C:\Users\bahar\Desktop\patika_C#\if_else_ternary\bin\Debug\net5.0\if_else_ternary.deps.json
+C:\Users\bahar\Desktop\patika_C#\if_else_ternary\bin\Debug\net5.0\if_else_ternary.runtimeconfig.json
+C:\Users\bahar\Desktop\patika_C#\if_else_ternary\bin\Debug\net5.0\if_else_ternary.runtimeconfig.dev.json
+C:\Users\bahar\Desktop\patika_C#\if_else_ternary\bin\Debug\net5.0\if_else_ternary.dll
+C:\Users\bahar\Desktop\patika_C#\if_else_ternary\bin\Debug\net5.0\ref\if_else_ternary.dll
+C:\Users\bahar\Desktop\patika_C#\if_else_ternary\bin\Debug\net5.0\if_else_ternary.pdb
+C:\Users\bahar\Desktop\patika_C#\if_else_ternary\obj\Debug\net5.0\if_else_ternary.csprojAssemblyReference.cache
+C:\Users\bahar\Desktop\patika_C#\if_else_ternary\obj\Debug\net5.0\if_else_ternary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bahar\Desktop\patika_C#\if_else_ternary\obj\Debug\net5.0\if_else_ternary.AssemblyInfoInputs.cache
+C:\Users\bahar\Desktop\patika_C#\if_else_ternary\obj\Debug\net5.0\if_else_ternary.AssemblyInfo.cs
+C:\Users\bahar\Desktop\patika_C#\if_else_ternary\obj\Debug\net5.0\if_else_ternary.csproj.CoreCompileInputs.cache
+C:\Users\bahar\Desktop\patika_C#\if_else_ternary\obj\Debug\net5.0\if_else_ternary.dll
+C:\Users\bahar\Desktop\patika_C#\if_else_ternary\obj\Debug\net5.0\ref\if_else_ternary.dll
+C:\Users\bahar\Desktop\patika_C#\if_else_ternary\obj\Debug\net5.0\if_else_ternary.pdb
+C:\Users\bahar\Desktop\patika_C#\if_else_ternary\obj\Debug\net5.0\if_else_ternary.genruntimeconfig.cache
