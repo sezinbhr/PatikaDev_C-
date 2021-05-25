@@ -1,0 +1,16 @@
+C:\Users\bahar\Desktop\patika_C#\arrayclass_methods\bin\Debug\net5.0\arrayclass_methods.exe
+C:\Users\bahar\Desktop\patika_C#\arrayclass_methods\bin\Debug\net5.0\arrayclass_methods.deps.json
+C:\Users\bahar\Desktop\patika_C#\arrayclass_methods\bin\Debug\net5.0\arrayclass_methods.runtimeconfig.json
+C:\Users\bahar\Desktop\patika_C#\arrayclass_methods\bin\Debug\net5.0\arrayclass_methods.runtimeconfig.dev.json
+C:\Users\bahar\Desktop\patika_C#\arrayclass_methods\bin\Debug\net5.0\arrayclass_methods.dll
+C:\Users\bahar\Desktop\patika_C#\arrayclass_methods\bin\Debug\net5.0\ref\arrayclass_methods.dll
+C:\Users\bahar\Desktop\patika_C#\arrayclass_methods\bin\Debug\net5.0\arrayclass_methods.pdb
+C:\Users\bahar\Desktop\patika_C#\arrayclass_methods\obj\Debug\net5.0\arrayclass_methods.csprojAssemblyReference.cache
+C:\Users\bahar\Desktop\patika_C#\arrayclass_methods\obj\Debug\net5.0\arrayclass_methods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bahar\Desktop\patika_C#\arrayclass_methods\obj\Debug\net5.0\arrayclass_methods.AssemblyInfoInputs.cache
+C:\Users\bahar\Desktop\patika_C#\arrayclass_methods\obj\Debug\net5.0\arrayclass_methods.AssemblyInfo.cs
+C:\Users\bahar\Desktop\patika_C#\arrayclass_methods\obj\Debug\net5.0\arrayclass_methods.csproj.CoreCompileInputs.cache
+C:\Users\bahar\Desktop\patika_C#\arrayclass_methods\obj\Debug\net5.0\arrayclass_methods.dll
+C:\Users\bahar\Desktop\patika_C#\arrayclass_methods\obj\Debug\net5.0\ref\arrayclass_methods.dll
+C:\Users\bahar\Desktop\patika_C#\arrayclass_methods\obj\Debug\net5.0\arrayclass_methods.pdb
+C:\Users\bahar\Desktop\patika_C#\arrayclass_methods\obj\Debug\net5.0\arrayclass_methods.genruntimeconfig.cache
