@@ -1,0 +1,16 @@
+C:\Users\bahar\Desktop\patika_C#\methods\bin\Debug\net5.0\methods.exe
+C:\Users\bahar\Desktop\patika_C#\methods\bin\Debug\net5.0\methods.deps.json
+C:\Users\bahar\Desktop\patika_C#\methods\bin\Debug\net5.0\methods.runtimeconfig.json
+C:\Users\bahar\Desktop\patika_C#\methods\bin\Debug\net5.0\methods.runtimeconfig.dev.json
+C:\Users\bahar\Desktop\patika_C#\methods\bin\Debug\net5.0\methods.dll
+C:\Users\bahar\Desktop\patika_C#\methods\bin\Debug\net5.0\ref\methods.dll
+C:\Users\bahar\Desktop\patika_C#\methods\bin\Debug\net5.0\methods.pdb
+C:\Users\bahar\Desktop\patika_C#\methods\obj\Debug\net5.0\methods.csprojAssemblyReference.cache
+C:\Users\bahar\Desktop\patika_C#\methods\obj\Debug\net5.0\methods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bahar\Desktop\patika_C#\methods\obj\Debug\net5.0\methods.AssemblyInfoInputs.cache
+C:\Users\bahar\Desktop\patika_C#\methods\obj\Debug\net5.0\methods.AssemblyInfo.cs
+C:\Users\bahar\Desktop\patika_C#\methods\obj\Debug\net5.0\methods.csproj.CoreCompileInputs.cache
+C:\Users\bahar\Desktop\patika_C#\methods\obj\Debug\net5.0\methods.dll
+C:\Users\bahar\Desktop\patika_C#\methods\obj\Debug\net5.0\ref\methods.dll
+C:\Users\bahar\Desktop\patika_C#\methods\obj\Debug\net5.0\methods.pdb
+C:\Users\bahar\Desktop\patika_C#\methods\obj\Debug\net5.0\methods.genruntimeconfig.cache
