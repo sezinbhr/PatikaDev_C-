@@ -24,7 +24,7 @@ namespace Arrays
             Console.WriteLine(colors[0]);
 
             //Array using in the loops
-            //Calculate the average by given number n, values will taken from user
+            //Calculate the average by given number n, the values will be taken from the user
             Console.WriteLine("Enter the size of the array:");
             int arrLeng = int.Parse(Console.ReadLine());
             int[] numArr = new int[arrLeng];
