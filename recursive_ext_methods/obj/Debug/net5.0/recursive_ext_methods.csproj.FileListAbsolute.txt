@@ -1,0 +1,16 @@
+C:\Users\bahar\Desktop\patika_C#\recursive_ext_methods\bin\Debug\net5.0\recursive_ext_methods.exe
+C:\Users\bahar\Desktop\patika_C#\recursive_ext_methods\bin\Debug\net5.0\recursive_ext_methods.deps.json
+C:\Users\bahar\Desktop\patika_C#\recursive_ext_methods\bin\Debug\net5.0\recursive_ext_methods.runtimeconfig.json
+C:\Users\bahar\Desktop\patika_C#\recursive_ext_methods\bin\Debug\net5.0\recursive_ext_methods.runtimeconfig.dev.json
+C:\Users\bahar\Desktop\patika_C#\recursive_ext_methods\bin\Debug\net5.0\recursive_ext_methods.dll
+C:\Users\bahar\Desktop\patika_C#\recursive_ext_methods\bin\Debug\net5.0\ref\recursive_ext_methods.dll
+C:\Users\bahar\Desktop\patika_C#\recursive_ext_methods\bin\Debug\net5.0\recursive_ext_methods.pdb
+C:\Users\bahar\Desktop\patika_C#\recursive_ext_methods\obj\Debug\net5.0\recursive_ext_methods.csprojAssemblyReference.cache
+C:\Users\bahar\Desktop\patika_C#\recursive_ext_methods\obj\Debug\net5.0\recursive_ext_methods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bahar\Desktop\patika_C#\recursive_ext_methods\obj\Debug\net5.0\recursive_ext_methods.AssemblyInfoInputs.cache
+C:\Users\bahar\Desktop\patika_C#\recursive_ext_methods\obj\Debug\net5.0\recursive_ext_methods.AssemblyInfo.cs
+C:\Users\bahar\Desktop\patika_C#\recursive_ext_methods\obj\Debug\net5.0\recursive_ext_methods.csproj.CoreCompileInputs.cache
+C:\Users\bahar\Desktop\patika_C#\recursive_ext_methods\obj\Debug\net5.0\recursive_ext_methods.dll
+C:\Users\bahar\Desktop\patika_C#\recursive_ext_methods\obj\Debug\net5.0\ref\recursive_ext_methods.dll
+C:\Users\bahar\Desktop\patika_C#\recursive_ext_methods\obj\Debug\net5.0\recursive_ext_methods.pdb
+C:\Users\bahar\Desktop\patika_C#\recursive_ext_methods\obj\Debug\net5.0\recursive_ext_methods.genruntimeconfig.cache
