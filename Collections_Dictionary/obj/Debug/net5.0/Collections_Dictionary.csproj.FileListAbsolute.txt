@@ -1,0 +1,16 @@
+C:\Users\bahar\Desktop\patika_C#\Collections_Dictionary\bin\Debug\net5.0\Collections_Dictionary.exe
+C:\Users\bahar\Desktop\patika_C#\Collections_Dictionary\bin\Debug\net5.0\Collections_Dictionary.deps.json
+C:\Users\bahar\Desktop\patika_C#\Collections_Dictionary\bin\Debug\net5.0\Collections_Dictionary.runtimeconfig.json
+C:\Users\bahar\Desktop\patika_C#\Collections_Dictionary\bin\Debug\net5.0\Collections_Dictionary.runtimeconfig.dev.json
+C:\Users\bahar\Desktop\patika_C#\Collections_Dictionary\bin\Debug\net5.0\Collections_Dictionary.dll
+C:\Users\bahar\Desktop\patika_C#\Collections_Dictionary\bin\Debug\net5.0\ref\Collections_Dictionary.dll
+C:\Users\bahar\Desktop\patika_C#\Collections_Dictionary\bin\Debug\net5.0\Collections_Dictionary.pdb
+C:\Users\bahar\Desktop\patika_C#\Collections_Dictionary\obj\Debug\net5.0\Collections_Dictionary.csprojAssemblyReference.cache
+C:\Users\bahar\Desktop\patika_C#\Collections_Dictionary\obj\Debug\net5.0\Collections_Dictionary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bahar\Desktop\patika_C#\Collections_Dictionary\obj\Debug\net5.0\Collections_Dictionary.AssemblyInfoInputs.cache
+C:\Users\bahar\Desktop\patika_C#\Collections_Dictionary\obj\Debug\net5.0\Collections_Dictionary.AssemblyInfo.cs
+C:\Users\bahar\Desktop\patika_C#\Collections_Dictionary\obj\Debug\net5.0\Collections_Dictionary.csproj.CoreCompileInputs.cache
+C:\Users\bahar\Desktop\patika_C#\Collections_Dictionary\obj\Debug\net5.0\Collections_Dictionary.dll
+C:\Users\bahar\Desktop\patika_C#\Collections_Dictionary\obj\Debug\net5.0\ref\Collections_Dictionary.dll
+C:\Users\bahar\Desktop\patika_C#\Collections_Dictionary\obj\Debug\net5.0\Collections_Dictionary.pdb
+C:\Users\bahar\Desktop\patika_C#\Collections_Dictionary\obj\Debug\net5.0\Collections_Dictionary.genruntimeconfig.cache
