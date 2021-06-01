@@ -1,0 +1,16 @@
+C:\Users\bahar\Desktop\patika_C#\AccessModifiers_Constructors\bin\Debug\net5.0\AccessModifiers_Constructors.exe
+C:\Users\bahar\Desktop\patika_C#\AccessModifiers_Constructors\bin\Debug\net5.0\AccessModifiers_Constructors.deps.json
+C:\Users\bahar\Desktop\patika_C#\AccessModifiers_Constructors\bin\Debug\net5.0\AccessModifiers_Constructors.runtimeconfig.json
+C:\Users\bahar\Desktop\patika_C#\AccessModifiers_Constructors\bin\Debug\net5.0\AccessModifiers_Constructors.runtimeconfig.dev.json
+C:\Users\bahar\Desktop\patika_C#\AccessModifiers_Constructors\bin\Debug\net5.0\AccessModifiers_Constructors.dll
+C:\Users\bahar\Desktop\patika_C#\AccessModifiers_Constructors\bin\Debug\net5.0\ref\AccessModifiers_Constructors.dll
+C:\Users\bahar\Desktop\patika_C#\AccessModifiers_Constructors\bin\Debug\net5.0\AccessModifiers_Constructors.pdb
+C:\Users\bahar\Desktop\patika_C#\AccessModifiers_Constructors\obj\Debug\net5.0\AccessModifiers_Constructors.csprojAssemblyReference.cache
+C:\Users\bahar\Desktop\patika_C#\AccessModifiers_Constructors\obj\Debug\net5.0\AccessModifiers_Constructors.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bahar\Desktop\patika_C#\AccessModifiers_Constructors\obj\Debug\net5.0\AccessModifiers_Constructors.AssemblyInfoInputs.cache
+C:\Users\bahar\Desktop\patika_C#\AccessModifiers_Constructors\obj\Debug\net5.0\AccessModifiers_Constructors.AssemblyInfo.cs
+C:\Users\bahar\Desktop\patika_C#\AccessModifiers_Constructors\obj\Debug\net5.0\AccessModifiers_Constructors.csproj.CoreCompileInputs.cache
+C:\Users\bahar\Desktop\patika_C#\AccessModifiers_Constructors\obj\Debug\net5.0\AccessModifiers_Constructors.dll
+C:\Users\bahar\Desktop\patika_C#\AccessModifiers_Constructors\obj\Debug\net5.0\ref\AccessModifiers_Constructors.dll
+C:\Users\bahar\Desktop\patika_C#\AccessModifiers_Constructors\obj\Debug\net5.0\AccessModifiers_Constructors.pdb
+C:\Users\bahar\Desktop\patika_C#\AccessModifiers_Constructors\obj\Debug\net5.0\AccessModifiers_Constructors.genruntimeconfig.cache
