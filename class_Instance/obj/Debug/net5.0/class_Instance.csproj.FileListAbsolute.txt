@@ -1,0 +1,16 @@
+C:\Users\bahar\Desktop\patika_C#\class_Instance\bin\Debug\net5.0\class_Instance.exe
+C:\Users\bahar\Desktop\patika_C#\class_Instance\bin\Debug\net5.0\class_Instance.deps.json
+C:\Users\bahar\Desktop\patika_C#\class_Instance\bin\Debug\net5.0\class_Instance.runtimeconfig.json
+C:\Users\bahar\Desktop\patika_C#\class_Instance\bin\Debug\net5.0\class_Instance.runtimeconfig.dev.json
+C:\Users\bahar\Desktop\patika_C#\class_Instance\bin\Debug\net5.0\class_Instance.dll
+C:\Users\bahar\Desktop\patika_C#\class_Instance\bin\Debug\net5.0\ref\class_Instance.dll
+C:\Users\bahar\Desktop\patika_C#\class_Instance\bin\Debug\net5.0\class_Instance.pdb
+C:\Users\bahar\Desktop\patika_C#\class_Instance\obj\Debug\net5.0\class_Instance.csprojAssemblyReference.cache
+C:\Users\bahar\Desktop\patika_C#\class_Instance\obj\Debug\net5.0\class_Instance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bahar\Desktop\patika_C#\class_Instance\obj\Debug\net5.0\class_Instance.AssemblyInfoInputs.cache
+C:\Users\bahar\Desktop\patika_C#\class_Instance\obj\Debug\net5.0\class_Instance.AssemblyInfo.cs
+C:\Users\bahar\Desktop\patika_C#\class_Instance\obj\Debug\net5.0\class_Instance.csproj.CoreCompileInputs.cache
+C:\Users\bahar\Desktop\patika_C#\class_Instance\obj\Debug\net5.0\class_Instance.dll
+C:\Users\bahar\Desktop\patika_C#\class_Instance\obj\Debug\net5.0\ref\class_Instance.dll
+C:\Users\bahar\Desktop\patika_C#\class_Instance\obj\Debug\net5.0\class_Instance.pdb
+C:\Users\bahar\Desktop\patika_C#\class_Instance\obj\Debug\net5.0\class_Instance.genruntimeconfig.cache
