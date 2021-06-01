@@ -1,0 +1,16 @@
+C:\Users\bahar\Desktop\patika_C#\Enum\bin\Debug\net5.0\Enum.exe
+C:\Users\bahar\Desktop\patika_C#\Enum\bin\Debug\net5.0\Enum.deps.json
+C:\Users\bahar\Desktop\patika_C#\Enum\bin\Debug\net5.0\Enum.runtimeconfig.json
+C:\Users\bahar\Desktop\patika_C#\Enum\bin\Debug\net5.0\Enum.runtimeconfig.dev.json
+C:\Users\bahar\Desktop\patika_C#\Enum\bin\Debug\net5.0\Enum.dll
+C:\Users\bahar\Desktop\patika_C#\Enum\bin\Debug\net5.0\ref\Enum.dll
+C:\Users\bahar\Desktop\patika_C#\Enum\bin\Debug\net5.0\Enum.pdb
+C:\Users\bahar\Desktop\patika_C#\Enum\obj\Debug\net5.0\Enum.csprojAssemblyReference.cache
+C:\Users\bahar\Desktop\patika_C#\Enum\obj\Debug\net5.0\Enum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bahar\Desktop\patika_C#\Enum\obj\Debug\net5.0\Enum.AssemblyInfoInputs.cache
+C:\Users\bahar\Desktop\patika_C#\Enum\obj\Debug\net5.0\Enum.AssemblyInfo.cs
+C:\Users\bahar\Desktop\patika_C#\Enum\obj\Debug\net5.0\Enum.csproj.CoreCompileInputs.cache
+C:\Users\bahar\Desktop\patika_C#\Enum\obj\Debug\net5.0\Enum.dll
+C:\Users\bahar\Desktop\patika_C#\Enum\obj\Debug\net5.0\ref\Enum.dll
+C:\Users\bahar\Desktop\patika_C#\Enum\obj\Debug\net5.0\Enum.pdb
+C:\Users\bahar\Desktop\patika_C#\Enum\obj\Debug\net5.0\Enum.genruntimeconfig.cache
