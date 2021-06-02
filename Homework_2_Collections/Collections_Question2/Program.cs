@@ -21,7 +21,36 @@ namespace Collections_Question2
             Array.Reverse(numList);
             int[] maxList = numList[0..3];
 
+            Console.WriteLine("The average of the first three minimums in the array: {0}", minList.get_Average());
+            Console.WriteLine("The average of the first three maximums in the array: {0}", maxList.get_Average());
+
+            Console.WriteLine("The sum of the first three minimums in the array: {0}", minList.get_Sum());
+            Console.WriteLine("The average of the first three maximums in the array: {0}", maxList.get_Sum());
 
         }
+    }
+
+    public static class Extension //extension class and methods have to be static 
+    {
+
+        public static int get_Average(this int[] param)
+        {
+            int sum = 0;
+            for (var i = 0; i < param.Length; i++)
+            {
+                sum += param[i];
+            }
+            return (sum / param.Length);
+        }
+        public static int get_Sum(this int[] param)
+        {
+            int sum = 0;
+            for (var i = 0; i < param.Length; i++)
+            {
+                sum += param[i];
+            }
+            return (sum);
+        }
+
     }
 }

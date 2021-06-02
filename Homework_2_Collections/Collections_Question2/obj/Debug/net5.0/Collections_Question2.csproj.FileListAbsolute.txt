@@ -1,0 +1,16 @@
+C:\Users\bahar\Desktop\patika_C#\Homework_2_Collections\Collections_Question2\bin\Debug\net5.0\Collections_Question2.exe
+C:\Users\bahar\Desktop\patika_C#\Homework_2_Collections\Collections_Question2\bin\Debug\net5.0\Collections_Question2.deps.json
+C:\Users\bahar\Desktop\patika_C#\Homework_2_Collections\Collections_Question2\bin\Debug\net5.0\Collections_Question2.runtimeconfig.json
+C:\Users\bahar\Desktop\patika_C#\Homework_2_Collections\Collections_Question2\bin\Debug\net5.0\Collections_Question2.runtimeconfig.dev.json
+C:\Users\bahar\Desktop\patika_C#\Homework_2_Collections\Collections_Question2\bin\Debug\net5.0\Collections_Question2.dll
+C:\Users\bahar\Desktop\patika_C#\Homework_2_Collections\Collections_Question2\bin\Debug\net5.0\ref\Collections_Question2.dll
+C:\Users\bahar\Desktop\patika_C#\Homework_2_Collections\Collections_Question2\bin\Debug\net5.0\Collections_Question2.pdb
+C:\Users\bahar\Desktop\patika_C#\Homework_2_Collections\Collections_Question2\obj\Debug\net5.0\Collections_Question2.csprojAssemblyReference.cache
+C:\Users\bahar\Desktop\patika_C#\Homework_2_Collections\Collections_Question2\obj\Debug\net5.0\Collections_Question2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bahar\Desktop\patika_C#\Homework_2_Collections\Collections_Question2\obj\Debug\net5.0\Collections_Question2.AssemblyInfoInputs.cache
+C:\Users\bahar\Desktop\patika_C#\Homework_2_Collections\Collections_Question2\obj\Debug\net5.0\Collections_Question2.AssemblyInfo.cs
+C:\Users\bahar\Desktop\patika_C#\Homework_2_Collections\Collections_Question2\obj\Debug\net5.0\Collections_Question2.csproj.CoreCompileInputs.cache
+C:\Users\bahar\Desktop\patika_C#\Homework_2_Collections\Collections_Question2\obj\Debug\net5.0\Collections_Question2.dll
+C:\Users\bahar\Desktop\patika_C#\Homework_2_Collections\Collections_Question2\obj\Debug\net5.0\ref\Collections_Question2.dll
+C:\Users\bahar\Desktop\patika_C#\Homework_2_Collections\Collections_Question2\obj\Debug\net5.0\Collections_Question2.pdb
+C:\Users\bahar\Desktop\patika_C#\Homework_2_Collections\Collections_Question2\obj\Debug\net5.0\Collections_Question2.genruntimeconfig.cache
