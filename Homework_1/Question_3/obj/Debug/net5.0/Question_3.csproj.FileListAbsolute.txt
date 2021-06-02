@@ -1,0 +1,16 @@
+C:\Users\bahar\Desktop\patika_C#\Homework_1\Question_3\bin\Debug\net5.0\Question_3.exe
+C:\Users\bahar\Desktop\patika_C#\Homework_1\Question_3\bin\Debug\net5.0\Question_3.deps.json
+C:\Users\bahar\Desktop\patika_C#\Homework_1\Question_3\bin\Debug\net5.0\Question_3.runtimeconfig.json
+C:\Users\bahar\Desktop\patika_C#\Homework_1\Question_3\bin\Debug\net5.0\Question_3.runtimeconfig.dev.json
+C:\Users\bahar\Desktop\patika_C#\Homework_1\Question_3\bin\Debug\net5.0\Question_3.dll
+C:\Users\bahar\Desktop\patika_C#\Homework_1\Question_3\bin\Debug\net5.0\ref\Question_3.dll
+C:\Users\bahar\Desktop\patika_C#\Homework_1\Question_3\bin\Debug\net5.0\Question_3.pdb
+C:\Users\bahar\Desktop\patika_C#\Homework_1\Question_3\obj\Debug\net5.0\Question_3.csprojAssemblyReference.cache
+C:\Users\bahar\Desktop\patika_C#\Homework_1\Question_3\obj\Debug\net5.0\Question_3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bahar\Desktop\patika_C#\Homework_1\Question_3\obj\Debug\net5.0\Question_3.AssemblyInfoInputs.cache
+C:\Users\bahar\Desktop\patika_C#\Homework_1\Question_3\obj\Debug\net5.0\Question_3.AssemblyInfo.cs
+C:\Users\bahar\Desktop\patika_C#\Homework_1\Question_3\obj\Debug\net5.0\Question_3.csproj.CoreCompileInputs.cache
+C:\Users\bahar\Desktop\patika_C#\Homework_1\Question_3\obj\Debug\net5.0\Question_3.dll
+C:\Users\bahar\Desktop\patika_C#\Homework_1\Question_3\obj\Debug\net5.0\ref\Question_3.dll
+C:\Users\bahar\Desktop\patika_C#\Homework_1\Question_3\obj\Debug\net5.0\Question_3.pdb
+C:\Users\bahar\Desktop\patika_C#\Homework_1\Question_3\obj\Debug\net5.0\Question_3.genruntimeconfig.cache
