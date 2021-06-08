@@ -44,7 +44,7 @@ namespace Console_Telephone_App
             Console.WriteLine("(3) Update the number");
             Console.WriteLine("(4) To show the contacts");
             Console.WriteLine("(5) To search in the contacts ");
-            Console.WriteLine("(5) Exit");
+
 
         }
 
