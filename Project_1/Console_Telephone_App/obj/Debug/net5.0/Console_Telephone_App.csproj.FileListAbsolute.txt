@@ -1,0 +1,16 @@
+C:\Users\bahar\Desktop\patika_C#\Project_1\Console_Telephone_App\bin\Debug\net5.0\Console_Telephone_App.exe
+C:\Users\bahar\Desktop\patika_C#\Project_1\Console_Telephone_App\bin\Debug\net5.0\Console_Telephone_App.deps.json
+C:\Users\bahar\Desktop\patika_C#\Project_1\Console_Telephone_App\bin\Debug\net5.0\Console_Telephone_App.runtimeconfig.json
+C:\Users\bahar\Desktop\patika_C#\Project_1\Console_Telephone_App\bin\Debug\net5.0\Console_Telephone_App.runtimeconfig.dev.json
+C:\Users\bahar\Desktop\patika_C#\Project_1\Console_Telephone_App\bin\Debug\net5.0\Console_Telephone_App.dll
+C:\Users\bahar\Desktop\patika_C#\Project_1\Console_Telephone_App\bin\Debug\net5.0\ref\Console_Telephone_App.dll
+C:\Users\bahar\Desktop\patika_C#\Project_1\Console_Telephone_App\bin\Debug\net5.0\Console_Telephone_App.pdb
+C:\Users\bahar\Desktop\patika_C#\Project_1\Console_Telephone_App\obj\Debug\net5.0\Console_Telephone_App.csprojAssemblyReference.cache
+C:\Users\bahar\Desktop\patika_C#\Project_1\Console_Telephone_App\obj\Debug\net5.0\Console_Telephone_App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bahar\Desktop\patika_C#\Project_1\Console_Telephone_App\obj\Debug\net5.0\Console_Telephone_App.AssemblyInfoInputs.cache
+C:\Users\bahar\Desktop\patika_C#\Project_1\Console_Telephone_App\obj\Debug\net5.0\Console_Telephone_App.AssemblyInfo.cs
+C:\Users\bahar\Desktop\patika_C#\Project_1\Console_Telephone_App\obj\Debug\net5.0\Console_Telephone_App.csproj.CoreCompileInputs.cache
+C:\Users\bahar\Desktop\patika_C#\Project_1\Console_Telephone_App\obj\Debug\net5.0\Console_Telephone_App.dll
+C:\Users\bahar\Desktop\patika_C#\Project_1\Console_Telephone_App\obj\Debug\net5.0\ref\Console_Telephone_App.dll
+C:\Users\bahar\Desktop\patika_C#\Project_1\Console_Telephone_App\obj\Debug\net5.0\Console_Telephone_App.pdb
+C:\Users\bahar\Desktop\patika_C#\Project_1\Console_Telephone_App\obj\Debug\net5.0\Console_Telephone_App.genruntimeconfig.cache
