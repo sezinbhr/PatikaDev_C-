@@ -39,12 +39,12 @@ namespace Console_Telephone_App
         {
             Console.WriteLine("Please choose the action you want :)");
             Console.WriteLine("*******************************************");
-            Console.WriteLine("(1) Yeni Numara Kaydetmek");
-            Console.WriteLine("(2) Varolan Numarayı Silmek");
-            Console.WriteLine("(3) Varolan Numarayı Güncelleme");
-            Console.WriteLine("(4) Rehberi Listelemek");
-            Console.WriteLine("(5) Rehberde Arama Yapmak");
-            Console.WriteLine("(5) Çıkış");
+            Console.WriteLine("(1) Save a new number");
+            Console.WriteLine("(2) Delete the number");
+            Console.WriteLine("(3) Update the number");
+            Console.WriteLine("(4) To show the contacts");
+            Console.WriteLine("(5) To search in the contacts ");
+            Console.WriteLine("(5) Exit");
 
         }
 
@@ -89,7 +89,7 @@ namespace Console_Telephone_App
             int option = int.Parse(Console.ReadLine());
             Console.WriteLine("**********************************************");
 
-            UserAction listing=new UserAction();
+            UserAction listing = new UserAction();
             listing.ViewContactList(option);
 
         }
@@ -102,11 +102,11 @@ namespace Console_Telephone_App
             Console.WriteLine("To search by phoneNumber: (2)");
 
             int option = int.Parse(Console.ReadLine());
-            UserAction searching=new UserAction();
+            UserAction searching = new UserAction();
             searching.Search_Contacts(option);
 
         }
     }
 
-    
+
 }
