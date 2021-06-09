@@ -1,0 +1,16 @@
+C:\Users\bahar\Desktop\patika_C#\Project_2\To_Do_App\bin\Debug\net5.0\To_Do_App.exe
+C:\Users\bahar\Desktop\patika_C#\Project_2\To_Do_App\bin\Debug\net5.0\To_Do_App.deps.json
+C:\Users\bahar\Desktop\patika_C#\Project_2\To_Do_App\bin\Debug\net5.0\To_Do_App.runtimeconfig.json
+C:\Users\bahar\Desktop\patika_C#\Project_2\To_Do_App\bin\Debug\net5.0\To_Do_App.runtimeconfig.dev.json
+C:\Users\bahar\Desktop\patika_C#\Project_2\To_Do_App\bin\Debug\net5.0\To_Do_App.dll
+C:\Users\bahar\Desktop\patika_C#\Project_2\To_Do_App\bin\Debug\net5.0\ref\To_Do_App.dll
+C:\Users\bahar\Desktop\patika_C#\Project_2\To_Do_App\bin\Debug\net5.0\To_Do_App.pdb
+C:\Users\bahar\Desktop\patika_C#\Project_2\To_Do_App\obj\Debug\net5.0\To_Do_App.csprojAssemblyReference.cache
+C:\Users\bahar\Desktop\patika_C#\Project_2\To_Do_App\obj\Debug\net5.0\To_Do_App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bahar\Desktop\patika_C#\Project_2\To_Do_App\obj\Debug\net5.0\To_Do_App.AssemblyInfoInputs.cache
+C:\Users\bahar\Desktop\patika_C#\Project_2\To_Do_App\obj\Debug\net5.0\To_Do_App.AssemblyInfo.cs
+C:\Users\bahar\Desktop\patika_C#\Project_2\To_Do_App\obj\Debug\net5.0\To_Do_App.csproj.CoreCompileInputs.cache
+C:\Users\bahar\Desktop\patika_C#\Project_2\To_Do_App\obj\Debug\net5.0\To_Do_App.dll
+C:\Users\bahar\Desktop\patika_C#\Project_2\To_Do_App\obj\Debug\net5.0\ref\To_Do_App.dll
+C:\Users\bahar\Desktop\patika_C#\Project_2\To_Do_App\obj\Debug\net5.0\To_Do_App.pdb
+C:\Users\bahar\Desktop\patika_C#\Project_2\To_Do_App\obj\Debug\net5.0\To_Do_App.genruntimeconfig.cache

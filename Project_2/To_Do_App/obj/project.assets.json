@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\bahar\\Desktop\\patika_C#\\Project_2\\Project_2.csproj",
-      "projectName": "Project_2",
-      "projectPath": "C:\\Users\\bahar\\Desktop\\patika_C#\\Project_2\\Project_2.csproj",
+      "projectUniqueName": "C:\\Users\\bahar\\Desktop\\patika_C#\\Project_2\\To_Do_App\\To_Do_App.csproj",
+      "projectName": "To_Do_App",
+      "projectPath": "C:\\Users\\bahar\\Desktop\\patika_C#\\Project_2\\To_Do_App\\To_Do_App.csproj",
       "packagesPath": "C:\\Users\\bahar\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\bahar\\Desktop\\patika_C#\\Project_2\\obj\\",
+      "outputPath": "C:\\Users\\bahar\\Desktop\\patika_C#\\Project_2\\To_Do_App\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\bahar\\AppData\\Roaming\\NuGet\\NuGet.Config",
