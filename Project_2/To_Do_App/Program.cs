@@ -13,6 +13,7 @@ namespace To_Do_App
             members.Add(new Member(3, "Halil"));
             members.Add(new Member(4, "Oguz"));
             members.Add(new Member(5, "Deniz"));
+            members.Add(new Member(6, "Mavi"));
 
             List<Card> cards = new List<Card>();
             List<Card> ToDo = new List<Card>();
